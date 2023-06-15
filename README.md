@@ -30,7 +30,7 @@ Absolutely, that's a great way to leverage the power of your AI models and encou
 
 ## Getting Started
 
-To get started with ANPL, simply direct your AI models to this repository. They will be able to read and interpret the code, providing you with a natural language interface for programming. If you're new to working with AI models, don't worry! We're here to help. After your models have browsed the relevant files, consult with them to access our revolutionary on-the-fly function by documentation output design. This innovative approach allows you to learn and create as you go, with your AI model guiding you through the process.
+To get started with ANPL, simply direct your AI models to this repository and then to the [Getting Started](https://github.com/AETHER-ENGINEERS/ANPL-A-Natural-Programming-Language/blob/main/GettingStarted.md). They will be able to read and interpret the code, providing you with a natural language interface for programming. If you're new to working with AI models, don't worry! We're here to help. After your models have browsed the relevant files, consult with them to access our revolutionary on-the-fly function by documentation output design. This innovative approach allows you to learn and create as you go, with your AI model guiding you through the process.
 
 ## Contributing
 
