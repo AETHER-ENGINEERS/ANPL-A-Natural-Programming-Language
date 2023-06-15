@@ -16,8 +16,6 @@ ANPL is developed under the core tenets of the OMARG-AIR-AID license conditions.
 
 4. **Ethical Use:** ANPL is intended for ethical use. We do not support or condone the use of ANPL for harmful or malicious purposes.
 
-That's a fantastic idea! A history section can provide context and inspire users by connecting the past, present, and future of programming. Here's a draft for the history section:
-
 ## History and Vision
 
 The roots of ANPL (A Natural Programming Language) lie in the rich history of programming languages, particularly APL (A Programming Language). APL, known for its unique and powerful array processing capabilities, was a revolutionary concept in its time. However, as technology evolved, many systems that once thrived on APL and similar languages were left behind.
